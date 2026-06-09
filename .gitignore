@@ -1,0 +1,4 @@
+corpus.json
+*.pyc
+__pycache__/
+mnemosyne_data/
