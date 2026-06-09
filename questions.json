@@ -1,0 +1,2902 @@
+[
+  {
+    "id": "s00",
+    "category": "status",
+    "company_id": "C240",
+    "question": "What is the current status of Company C240?",
+    "answer": "IPO",
+    "expected_entity": "Company C240"
+  },
+  {
+    "id": "s01",
+    "category": "status",
+    "company_id": "C127",
+    "question": "What is the current status of Company C127?",
+    "answer": "Active",
+    "expected_entity": "Company C127"
+  },
+  {
+    "id": "s02",
+    "category": "status",
+    "company_id": "C413",
+    "question": "What is the current status of Company C413?",
+    "answer": "Inactive",
+    "expected_entity": "Company C413"
+  },
+  {
+    "id": "s03",
+    "category": "status",
+    "company_id": "C040",
+    "question": "What is the current status of Company C040?",
+    "answer": "Active",
+    "expected_entity": "Company C040"
+  },
+  {
+    "id": "s04",
+    "category": "status",
+    "company_id": "C178",
+    "question": "What is the current status of Company C178?",
+    "answer": "Active",
+    "expected_entity": "Company C178"
+  },
+  {
+    "id": "s05",
+    "category": "status",
+    "company_id": "C305",
+    "question": "What is the current status of Company C305?",
+    "answer": "Active",
+    "expected_entity": "Company C305"
+  },
+  {
+    "id": "s06",
+    "category": "status",
+    "company_id": "C365",
+    "question": "What is the current status of Company C365?",
+    "answer": "IPO",
+    "expected_entity": "Company C365"
+  },
+  {
+    "id": "s07",
+    "category": "status",
+    "company_id": "C203",
+    "question": "What is the current status of Company C203?",
+    "answer": "Active",
+    "expected_entity": "Company C203"
+  },
+  {
+    "id": "s08",
+    "category": "status",
+    "company_id": "C450",
+    "question": "What is the current status of Company C450?",
+    "answer": "Active",
+    "expected_entity": "Company C450"
+  },
+  {
+    "id": "s09",
+    "category": "status",
+    "company_id": "C400",
+    "question": "What is the current status of Company C400?",
+    "answer": "Restructuring",
+    "expected_entity": "Company C400"
+  },
+  {
+    "id": "s10",
+    "category": "status",
+    "company_id": "C038",
+    "question": "What is the current status of Company C038?",
+    "answer": "Active",
+    "expected_entity": "Company C038"
+  },
+  {
+    "id": "s11",
+    "category": "status",
+    "company_id": "C042",
+    "question": "What is the current status of Company C042?",
+    "answer": "Active",
+    "expected_entity": "Company C042"
+  },
+  {
+    "id": "s12",
+    "category": "status",
+    "company_id": "C054",
+    "question": "What is the current status of Company C054?",
+    "answer": "Acquired",
+    "expected_entity": "Company C054"
+  },
+  {
+    "id": "s13",
+    "category": "status",
+    "company_id": "C362",
+    "question": "What is the current status of Company C362?",
+    "answer": "Active",
+    "expected_entity": "Company C362"
+  },
+  {
+    "id": "s14",
+    "category": "status",
+    "company_id": "C353",
+    "question": "What is the current status of Company C353?",
+    "answer": "Active",
+    "expected_entity": "Company C353"
+  },
+  {
+    "id": "s15",
+    "category": "status",
+    "company_id": "C162",
+    "question": "What is the current status of Company C162?",
+    "answer": "Active",
+    "expected_entity": "Company C162"
+  },
+  {
+    "id": "s16",
+    "category": "status",
+    "company_id": "C420",
+    "question": "What is the current status of Company C420?",
+    "answer": "Restructuring",
+    "expected_entity": "Company C420"
+  },
+  {
+    "id": "s17",
+    "category": "status",
+    "company_id": "C287",
+    "question": "What is the current status of Company C287?",
+    "answer": "Acquired",
+    "expected_entity": "Company C287"
+  },
+  {
+    "id": "s18",
+    "category": "status",
+    "company_id": "C349",
+    "question": "What is the current status of Company C349?",
+    "answer": "Restructuring",
+    "expected_entity": "Company C349"
+  },
+  {
+    "id": "s19",
+    "category": "status",
+    "company_id": "C320",
+    "question": "What is the current status of Company C320?",
+    "answer": "IPO",
+    "expected_entity": "Company C320"
+  },
+  {
+    "id": "s20",
+    "category": "status",
+    "company_id": "C313",
+    "question": "What is the current status of Company C313?",
+    "answer": "Active",
+    "expected_entity": "Company C313"
+  },
+  {
+    "id": "s21",
+    "category": "status",
+    "company_id": "C351",
+    "question": "What is the current status of Company C351?",
+    "answer": "Acquired",
+    "expected_entity": "Company C351"
+  },
+  {
+    "id": "s22",
+    "category": "status",
+    "company_id": "C122",
+    "question": "What is the current status of Company C122?",
+    "answer": "Active",
+    "expected_entity": "Company C122"
+  },
+  {
+    "id": "s23",
+    "category": "status",
+    "company_id": "C445",
+    "question": "What is the current status of Company C445?",
+    "answer": "Inactive",
+    "expected_entity": "Company C445"
+  },
+  {
+    "id": "s24",
+    "category": "status",
+    "company_id": "C427",
+    "question": "What is the current status of Company C427?",
+    "answer": "Active",
+    "expected_entity": "Company C427"
+  },
+  {
+    "id": "s25",
+    "category": "status",
+    "company_id": "C436",
+    "question": "What is the current status of Company C436?",
+    "answer": "Acquired",
+    "expected_entity": "Company C436"
+  },
+  {
+    "id": "s26",
+    "category": "status",
+    "company_id": "C383",
+    "question": "What is the current status of Company C383?",
+    "answer": "Active",
+    "expected_entity": "Company C383"
+  },
+  {
+    "id": "s27",
+    "category": "status",
+    "company_id": "C383",
+    "question": "What is the current status of Company C383?",
+    "answer": "Active",
+    "expected_entity": "Company C383"
+  },
+  {
+    "id": "s28",
+    "category": "status",
+    "company_id": "C083",
+    "question": "What is the current status of Company C083?",
+    "answer": "Active",
+    "expected_entity": "Company C083"
+  },
+  {
+    "id": "s29",
+    "category": "status",
+    "company_id": "C375",
+    "question": "What is the current status of Company C375?",
+    "answer": "Restructuring",
+    "expected_entity": "Company C375"
+  },
+  {
+    "id": "s30",
+    "category": "status",
+    "company_id": "C454",
+    "question": "What is the current status of Company C454?",
+    "answer": "Acquired",
+    "expected_entity": "Company C454"
+  },
+  {
+    "id": "s31",
+    "category": "status",
+    "company_id": "C436",
+    "question": "What is the current status of Company C436?",
+    "answer": "Acquired",
+    "expected_entity": "Company C436"
+  },
+  {
+    "id": "s32",
+    "category": "status",
+    "company_id": "C180",
+    "question": "What is the current status of Company C180?",
+    "answer": "Active",
+    "expected_entity": "Company C180"
+  },
+  {
+    "id": "s33",
+    "category": "status",
+    "company_id": "C367",
+    "question": "What is the current status of Company C367?",
+    "answer": "Inactive",
+    "expected_entity": "Company C367"
+  },
+  {
+    "id": "s34",
+    "category": "status",
+    "company_id": "C406",
+    "question": "What is the current status of Company C406?",
+    "answer": "IPO",
+    "expected_entity": "Company C406"
+  },
+  {
+    "id": "s35",
+    "category": "status",
+    "company_id": "C488",
+    "question": "What is the current status of Company C488?",
+    "answer": "Active",
+    "expected_entity": "Company C488"
+  },
+  {
+    "id": "s36",
+    "category": "status",
+    "company_id": "C320",
+    "question": "What is the current status of Company C320?",
+    "answer": "IPO",
+    "expected_entity": "Company C320"
+  },
+  {
+    "id": "s37",
+    "category": "status",
+    "company_id": "C447",
+    "question": "What is the current status of Company C447?",
+    "answer": "Active",
+    "expected_entity": "Company C447"
+  },
+  {
+    "id": "s38",
+    "category": "status",
+    "company_id": "C370",
+    "question": "What is the current status of Company C370?",
+    "answer": "Active",
+    "expected_entity": "Company C370"
+  },
+  {
+    "id": "s39",
+    "category": "status",
+    "company_id": "C274",
+    "question": "What is the current status of Company C274?",
+    "answer": "Restructuring",
+    "expected_entity": "Company C274"
+  },
+  {
+    "id": "s40",
+    "category": "status",
+    "company_id": "C234",
+    "question": "What is the current status of Company C234?",
+    "answer": "Active",
+    "expected_entity": "Company C234"
+  },
+  {
+    "id": "s41",
+    "category": "status",
+    "company_id": "C218",
+    "question": "What is the current status of Company C218?",
+    "answer": "IPO",
+    "expected_entity": "Company C218"
+  },
+  {
+    "id": "s42",
+    "category": "status",
+    "company_id": "C459",
+    "question": "What is the current status of Company C459?",
+    "answer": "Acquired",
+    "expected_entity": "Company C459"
+  },
+  {
+    "id": "s43",
+    "category": "status",
+    "company_id": "C373",
+    "question": "What is the current status of Company C373?",
+    "answer": "Inactive",
+    "expected_entity": "Company C373"
+  },
+  {
+    "id": "s44",
+    "category": "status",
+    "company_id": "C499",
+    "question": "What is the current status of Company C499?",
+    "answer": "Active",
+    "expected_entity": "Company C499"
+  },
+  {
+    "id": "s45",
+    "category": "status",
+    "company_id": "C204",
+    "question": "What is the current status of Company C204?",
+    "answer": "Inactive",
+    "expected_entity": "Company C204"
+  },
+  {
+    "id": "s46",
+    "category": "status",
+    "company_id": "C082",
+    "question": "What is the current status of Company C082?",
+    "answer": "Restructuring",
+    "expected_entity": "Company C082"
+  },
+  {
+    "id": "s47",
+    "category": "status",
+    "company_id": "C396",
+    "question": "What is the current status of Company C396?",
+    "answer": "IPO",
+    "expected_entity": "Company C396"
+  },
+  {
+    "id": "s48",
+    "category": "status",
+    "company_id": "C357",
+    "question": "What is the current status of Company C357?",
+    "answer": "Active",
+    "expected_entity": "Company C357"
+  },
+  {
+    "id": "s49",
+    "category": "status",
+    "company_id": "C203",
+    "question": "What is the current status of Company C203?",
+    "answer": "Active",
+    "expected_entity": "Company C203"
+  },
+  {
+    "id": "m00",
+    "category": "milestone",
+    "company_id": "C387",
+    "question": "What milestone did Company C387 achieve on 2025-03-19?",
+    "answer": "launched product StreamLine v2.9",
+    "expected_entity": "Company C387"
+  },
+  {
+    "id": "m01",
+    "category": "milestone",
+    "company_id": "C108",
+    "question": "What milestone did Company C108 achieve on 2025-09-11?",
+    "answer": "received ISO 27001 certification",
+    "expected_entity": "Company C108"
+  },
+  {
+    "id": "m02",
+    "category": "milestone",
+    "company_id": "C391",
+    "question": "What milestone did Company C391 achieve on 2025-06-04?",
+    "answer": "exited APAC market",
+    "expected_entity": "Company C391"
+  },
+  {
+    "id": "m03",
+    "category": "milestone",
+    "company_id": "C062",
+    "question": "What milestone did Company C062 achieve on 2025-09-05?",
+    "answer": "launched product SecureShield v2.5",
+    "expected_entity": "Company C062"
+  },
+  {
+    "id": "m04",
+    "category": "milestone",
+    "company_id": "C473",
+    "question": "What milestone did Company C473 achieve on 2025-09-27?",
+    "answer": "exited APAC market",
+    "expected_entity": "Company C473"
+  },
+  {
+    "id": "m05",
+    "category": "milestone",
+    "company_id": "C110",
+    "question": "What milestone did Company C110 achieve on 2025-03-12?",
+    "answer": "hired 6379 new employees",
+    "expected_entity": "Company C110"
+  },
+  {
+    "id": "m06",
+    "category": "milestone",
+    "company_id": "C003",
+    "question": "What milestone did Company C003 achieve on 2025-07-06?",
+    "answer": "signed $296M contract with Meta",
+    "expected_entity": "Company C003"
+  },
+  {
+    "id": "m07",
+    "category": "milestone",
+    "company_id": "C118",
+    "question": "What milestone did Company C118 achieve on 2025-09-18?",
+    "answer": "raised $435M Series E",
+    "expected_entity": "Company C118"
+  },
+  {
+    "id": "m08",
+    "category": "milestone",
+    "company_id": "C402",
+    "question": "What milestone did Company C402 achieve on 2025-07-06?",
+    "answer": "received ISO 27001 certification",
+    "expected_entity": "Company C402"
+  },
+  {
+    "id": "m09",
+    "category": "milestone",
+    "company_id": "C434",
+    "question": "What milestone did Company C434 achieve on 2025-04-13?",
+    "answer": "received SOC 2 certification",
+    "expected_entity": "Company C434"
+  },
+  {
+    "id": "m10",
+    "category": "milestone",
+    "company_id": "C499",
+    "question": "What milestone did Company C499 achieve on 2025-07-15?",
+    "answer": "secured patent for BlockBase",
+    "expected_entity": "Company C499"
+  },
+  {
+    "id": "m11",
+    "category": "milestone",
+    "company_id": "C396",
+    "question": "What milestone did Company C396 achieve on 2025-10-27?",
+    "answer": "exited Latin America market",
+    "expected_entity": "Company C396"
+  },
+  {
+    "id": "m12",
+    "category": "milestone",
+    "company_id": "C441",
+    "question": "What milestone did Company C441 achieve on 2025-01-22?",
+    "answer": "acquired a smaller rival",
+    "expected_entity": "Company C441"
+  },
+  {
+    "id": "m13",
+    "category": "milestone",
+    "company_id": "C496",
+    "question": "What milestone did Company C496 achieve on 2025-07-27?",
+    "answer": "received HIPAA certification",
+    "expected_entity": "Company C496"
+  },
+  {
+    "id": "m14",
+    "category": "milestone",
+    "company_id": "C015",
+    "question": "What milestone did Company C015 achieve on 2025-04-18?",
+    "answer": "appointed Victor Clark as new General Counsel",
+    "expected_entity": "Company C015"
+  },
+  {
+    "id": "m15",
+    "category": "milestone",
+    "company_id": "C371",
+    "question": "What milestone did Company C371 achieve on 2025-07-17?",
+    "answer": "opened office in Toronto",
+    "expected_entity": "Company C371"
+  },
+  {
+    "id": "m16",
+    "category": "milestone",
+    "company_id": "C111",
+    "question": "What milestone did Company C111 achieve on 2025-10-05?",
+    "answer": "partnered with Meta on sustainability program",
+    "expected_entity": "Company C111"
+  },
+  {
+    "id": "m17",
+    "category": "milestone",
+    "company_id": "C303",
+    "question": "What milestone did Company C303 achieve on 2025-11-07?",
+    "answer": "revenue exceeded $498M quarterly target",
+    "expected_entity": "Company C303"
+  },
+  {
+    "id": "m18",
+    "category": "milestone",
+    "company_id": "C221",
+    "question": "What milestone did Company C221 achieve on 2025-05-13?",
+    "answer": "appointed Liam Adams as new CFO",
+    "expected_entity": "Company C221"
+  },
+  {
+    "id": "m19",
+    "category": "milestone",
+    "company_id": "C118",
+    "question": "What milestone did Company C118 achieve on 2025-10-02?",
+    "answer": "reached 8713 paying customers",
+    "expected_entity": "Company C118"
+  },
+  {
+    "id": "m20",
+    "category": "milestone",
+    "company_id": "C145",
+    "question": "What milestone did Company C145 achieve on 2025-07-11?",
+    "answer": "acquired a niche player",
+    "expected_entity": "Company C145"
+  },
+  {
+    "id": "m21",
+    "category": "milestone",
+    "company_id": "C364",
+    "question": "What milestone did Company C364 achieve on 2025-05-15?",
+    "answer": "partnered with Tesla on zero-trust security",
+    "expected_entity": "Company C364"
+  },
+  {
+    "id": "m22",
+    "category": "milestone",
+    "company_id": "C110",
+    "question": "What milestone did Company C110 achieve on 2025-07-10?",
+    "answer": "partnered with IBM on sustainability program",
+    "expected_entity": "Company C110"
+  },
+  {
+    "id": "m23",
+    "category": "milestone",
+    "company_id": "C184",
+    "question": "What milestone did Company C184 achieve on 2025-03-19?",
+    "answer": "raised $97M Series C",
+    "expected_entity": "Company C184"
+  },
+  {
+    "id": "m24",
+    "category": "milestone",
+    "company_id": "C106",
+    "question": "What milestone did Company C106 achieve on 2025-07-22?",
+    "answer": "appointed Carol Singh as new VP Sales",
+    "expected_entity": "Company C106"
+  },
+  {
+    "id": "m25",
+    "category": "milestone",
+    "company_id": "C187",
+    "question": "What milestone did Company C187 achieve on 2025-05-13?",
+    "answer": "reached 53065 paying customers",
+    "expected_entity": "Company C187"
+  },
+  {
+    "id": "m26",
+    "category": "milestone",
+    "company_id": "C066",
+    "question": "What milestone did Company C066 achieve on 2025-09-20?",
+    "answer": "received HIPAA certification",
+    "expected_entity": "Company C066"
+  },
+  {
+    "id": "m27",
+    "category": "milestone",
+    "company_id": "C041",
+    "question": "What milestone did Company C041 achieve on 2025-09-29?",
+    "answer": "revenue exceeded $109M quarterly target",
+    "expected_entity": "Company C041"
+  },
+  {
+    "id": "m28",
+    "category": "milestone",
+    "company_id": "C460",
+    "question": "What milestone did Company C460 achieve on 2025-04-26?",
+    "answer": "exited APAC market",
+    "expected_entity": "Company C460"
+  },
+  {
+    "id": "m29",
+    "category": "milestone",
+    "company_id": "C073",
+    "question": "What milestone did Company C073 achieve on 2025-03-30?",
+    "answer": "secured patent for BlockBase",
+    "expected_entity": "Company C073"
+  },
+  {
+    "id": "m30",
+    "category": "milestone",
+    "company_id": "C111",
+    "question": "What milestone did Company C111 achieve on 2025-07-22?",
+    "answer": "exited Europe market",
+    "expected_entity": "Company C111"
+  },
+  {
+    "id": "m31",
+    "category": "milestone",
+    "company_id": "C369",
+    "question": "What milestone did Company C369 achieve on 2025-03-03?",
+    "answer": "received SOC 2 certification",
+    "expected_entity": "Company C369"
+  },
+  {
+    "id": "m32",
+    "category": "milestone",
+    "company_id": "C343",
+    "question": "What milestone did Company C343 achieve on 2025-03-03?",
+    "answer": "hired 37946 new employees",
+    "expected_entity": "Company C343"
+  },
+  {
+    "id": "m33",
+    "category": "milestone",
+    "company_id": "C340",
+    "question": "What milestone did Company C340 achieve on 2025-10-01?",
+    "answer": "hired 21266 new employees",
+    "expected_entity": "Company C340"
+  },
+  {
+    "id": "m34",
+    "category": "milestone",
+    "company_id": "C008",
+    "question": "What milestone did Company C008 achieve on 2025-07-31?",
+    "answer": "opened office in Austin",
+    "expected_entity": "Company C008"
+  },
+  {
+    "id": "m35",
+    "category": "milestone",
+    "company_id": "C251",
+    "question": "What milestone did Company C251 achieve on 2025-06-16?",
+    "answer": "signed $428M contract with JPMorgan",
+    "expected_entity": "Company C251"
+  },
+  {
+    "id": "m36",
+    "category": "milestone",
+    "company_id": "C446",
+    "question": "What milestone did Company C446 achieve on 2025-01-04?",
+    "answer": "revenue exceeded $499M quarterly target",
+    "expected_entity": "Company C446"
+  },
+  {
+    "id": "m37",
+    "category": "milestone",
+    "company_id": "C269",
+    "question": "What milestone did Company C269 achieve on 2025-08-26?",
+    "answer": "received ISO 27001 certification",
+    "expected_entity": "Company C269"
+  },
+  {
+    "id": "m38",
+    "category": "milestone",
+    "company_id": "C335",
+    "question": "What milestone did Company C335 achieve on 2025-01-02?",
+    "answer": "opened office in Seattle",
+    "expected_entity": "Company C335"
+  },
+  {
+    "id": "m39",
+    "category": "milestone",
+    "company_id": "C099",
+    "question": "What milestone did Company C099 achieve on 2025-11-21?",
+    "answer": "hired 6539 new employees",
+    "expected_entity": "Company C099"
+  },
+  {
+    "id": "m40",
+    "category": "milestone",
+    "company_id": "C033",
+    "question": "What milestone did Company C033 achieve on 2025-11-09?",
+    "answer": "received ISO 27001 certification",
+    "expected_entity": "Company C033"
+  },
+  {
+    "id": "m41",
+    "category": "milestone",
+    "company_id": "C318",
+    "question": "What milestone did Company C318 achieve on 2025-02-25?",
+    "answer": "hired 93882 new employees",
+    "expected_entity": "Company C318"
+  },
+  {
+    "id": "m42",
+    "category": "milestone",
+    "company_id": "C101",
+    "question": "What milestone did Company C101 achieve on 2025-04-15?",
+    "answer": "received GDPR certification",
+    "expected_entity": "Company C101"
+  },
+  {
+    "id": "m43",
+    "category": "milestone",
+    "company_id": "C243",
+    "question": "What milestone did Company C243 achieve on 2025-08-16?",
+    "answer": "revenue exceeded $52M quarterly target",
+    "expected_entity": "Company C243"
+  },
+  {
+    "id": "m44",
+    "category": "milestone",
+    "company_id": "C178",
+    "question": "What milestone did Company C178 achieve on 2025-12-12?",
+    "answer": "exited Africa market",
+    "expected_entity": "Company C178"
+  },
+  {
+    "id": "m45",
+    "category": "milestone",
+    "company_id": "C476",
+    "question": "What milestone did Company C476 achieve on 2025-08-02?",
+    "answer": "acquired a niche player",
+    "expected_entity": "Company C476"
+  },
+  {
+    "id": "m46",
+    "category": "milestone",
+    "company_id": "C058",
+    "question": "What milestone did Company C058 achieve on 2025-06-05?",
+    "answer": "received SOC 2 certification",
+    "expected_entity": "Company C058"
+  },
+  {
+    "id": "m47",
+    "category": "milestone",
+    "company_id": "C454",
+    "question": "What milestone did Company C454 achieve on 2025-08-26?",
+    "answer": "signed $281M contract with Tesla",
+    "expected_entity": "Company C454"
+  },
+  {
+    "id": "m48",
+    "category": "milestone",
+    "company_id": "C422",
+    "question": "What milestone did Company C422 achieve on 2025-12-07?",
+    "answer": "secured patent for QuantCore",
+    "expected_entity": "Company C422"
+  },
+  {
+    "id": "m49",
+    "category": "milestone",
+    "company_id": "C181",
+    "question": "What milestone did Company C181 achieve on 2025-09-21?",
+    "answer": "exited APAC market",
+    "expected_entity": "Company C181"
+  },
+  {
+    "id": "c00",
+    "category": "context_stat",
+    "company_id": "C042",
+    "question": "How many employees does Company C042 have?",
+    "answer": "13011",
+    "expected_entity": "Company C042"
+  },
+  {
+    "id": "c01",
+    "category": "context_stat",
+    "company_id": "C181",
+    "question": "How many employees does Company C181 have?",
+    "answer": "36566",
+    "expected_entity": "Company C181"
+  },
+  {
+    "id": "c02",
+    "category": "context_stat",
+    "company_id": "C342",
+    "question": "How many employees does Company C342 have?",
+    "answer": "43368",
+    "expected_entity": "Company C342"
+  },
+  {
+    "id": "c03",
+    "category": "context_stat",
+    "company_id": "C150",
+    "question": "How many employees does Company C150 have?",
+    "answer": "31698",
+    "expected_entity": "Company C150"
+  },
+  {
+    "id": "c04",
+    "category": "context_stat",
+    "company_id": "C110",
+    "question": "How many employees does Company C110 have?",
+    "answer": "5996",
+    "expected_entity": "Company C110"
+  },
+  {
+    "id": "c05",
+    "category": "context_stat",
+    "company_id": "C424",
+    "question": "How many employees does Company C424 have?",
+    "answer": "29473",
+    "expected_entity": "Company C424"
+  },
+  {
+    "id": "c06",
+    "category": "context_stat",
+    "company_id": "C284",
+    "question": "How many employees does Company C284 have?",
+    "answer": "11150",
+    "expected_entity": "Company C284"
+  },
+  {
+    "id": "c07",
+    "category": "context_stat",
+    "company_id": "C206",
+    "question": "How many employees does Company C206 have?",
+    "answer": "26395",
+    "expected_entity": "Company C206"
+  },
+  {
+    "id": "c08",
+    "category": "context_stat",
+    "company_id": "C112",
+    "question": "How many employees does Company C112 have?",
+    "answer": "17346",
+    "expected_entity": "Company C112"
+  },
+  {
+    "id": "c09",
+    "category": "context_stat",
+    "company_id": "C151",
+    "question": "How many employees does Company C151 have?",
+    "answer": "12756",
+    "expected_entity": "Company C151"
+  },
+  {
+    "id": "c10",
+    "category": "context_stat",
+    "company_id": "C371",
+    "question": "How many employees does Company C371 have?",
+    "answer": "4805",
+    "expected_entity": "Company C371"
+  },
+  {
+    "id": "c11",
+    "category": "context_stat",
+    "company_id": "C290",
+    "question": "How many employees does Company C290 have?",
+    "answer": "26411",
+    "expected_entity": "Company C290"
+  },
+  {
+    "id": "c12",
+    "category": "context_stat",
+    "company_id": "C030",
+    "question": "How many employees does Company C030 have?",
+    "answer": "38971",
+    "expected_entity": "Company C030"
+  },
+  {
+    "id": "c13",
+    "category": "context_stat",
+    "company_id": "C136",
+    "question": "How many employees does Company C136 have?",
+    "answer": "28750",
+    "expected_entity": "Company C136"
+  },
+  {
+    "id": "c14",
+    "category": "context_stat",
+    "company_id": "C277",
+    "question": "How many employees does Company C277 have?",
+    "answer": "35844",
+    "expected_entity": "Company C277"
+  },
+  {
+    "id": "c15",
+    "category": "context_stat",
+    "company_id": "C136",
+    "question": "How many employees does Company C136 have?",
+    "answer": "28750",
+    "expected_entity": "Company C136"
+  },
+  {
+    "id": "c16",
+    "category": "context_stat",
+    "company_id": "C496",
+    "question": "How many employees does Company C496 have?",
+    "answer": "9437",
+    "expected_entity": "Company C496"
+  },
+  {
+    "id": "c17",
+    "category": "context_stat",
+    "company_id": "C282",
+    "question": "How many employees does Company C282 have?",
+    "answer": "40067",
+    "expected_entity": "Company C282"
+  },
+  {
+    "id": "c18",
+    "category": "context_stat",
+    "company_id": "C146",
+    "question": "How many employees does Company C146 have?",
+    "answer": "46213",
+    "expected_entity": "Company C146"
+  },
+  {
+    "id": "c19",
+    "category": "context_stat",
+    "company_id": "C235",
+    "question": "How many employees does Company C235 have?",
+    "answer": "41658",
+    "expected_entity": "Company C235"
+  },
+  {
+    "id": "c20",
+    "category": "context_stat",
+    "company_id": "C020",
+    "question": "How many employees does Company C020 have?",
+    "answer": "19570",
+    "expected_entity": "Company C020"
+  },
+  {
+    "id": "c21",
+    "category": "context_stat",
+    "company_id": "C207",
+    "question": "How many employees does Company C207 have?",
+    "answer": "24678",
+    "expected_entity": "Company C207"
+  },
+  {
+    "id": "c22",
+    "category": "context_stat",
+    "company_id": "C127",
+    "question": "How many employees does Company C127 have?",
+    "answer": "29672",
+    "expected_entity": "Company C127"
+  },
+  {
+    "id": "c23",
+    "category": "context_stat",
+    "company_id": "C373",
+    "question": "How many employees does Company C373 have?",
+    "answer": "24795",
+    "expected_entity": "Company C373"
+  },
+  {
+    "id": "c24",
+    "category": "context_stat",
+    "company_id": "C105",
+    "question": "How many employees does Company C105 have?",
+    "answer": "37492",
+    "expected_entity": "Company C105"
+  },
+  {
+    "id": "c25",
+    "category": "context_stat",
+    "company_id": "C180",
+    "question": "How many employees does Company C180 have?",
+    "answer": "7693",
+    "expected_entity": "Company C180"
+  },
+  {
+    "id": "c26",
+    "category": "context_stat",
+    "company_id": "C163",
+    "question": "How many employees does Company C163 have?",
+    "answer": "15959",
+    "expected_entity": "Company C163"
+  },
+  {
+    "id": "c27",
+    "category": "context_stat",
+    "company_id": "C179",
+    "question": "How many employees does Company C179 have?",
+    "answer": "11123",
+    "expected_entity": "Company C179"
+  },
+  {
+    "id": "c28",
+    "category": "context_stat",
+    "company_id": "C122",
+    "question": "How many employees does Company C122 have?",
+    "answer": "46012",
+    "expected_entity": "Company C122"
+  },
+  {
+    "id": "c29",
+    "category": "context_stat",
+    "company_id": "C194",
+    "question": "How many employees does Company C194 have?",
+    "answer": "21853",
+    "expected_entity": "Company C194"
+  },
+  {
+    "id": "c30",
+    "category": "context_stat",
+    "company_id": "C123",
+    "question": "How many employees does Company C123 have?",
+    "answer": "31089",
+    "expected_entity": "Company C123"
+  },
+  {
+    "id": "c31",
+    "category": "context_stat",
+    "company_id": "C073",
+    "question": "How many employees does Company C073 have?",
+    "answer": "26578",
+    "expected_entity": "Company C073"
+  },
+  {
+    "id": "c32",
+    "category": "context_stat",
+    "company_id": "C102",
+    "question": "How many employees does Company C102 have?",
+    "answer": "11038",
+    "expected_entity": "Company C102"
+  },
+  {
+    "id": "c33",
+    "category": "context_stat",
+    "company_id": "C243",
+    "question": "How many employees does Company C243 have?",
+    "answer": "25779",
+    "expected_entity": "Company C243"
+  },
+  {
+    "id": "c34",
+    "category": "context_stat",
+    "company_id": "C230",
+    "question": "How many employees does Company C230 have?",
+    "answer": "26000",
+    "expected_entity": "Company C230"
+  },
+  {
+    "id": "c35",
+    "category": "context_stat",
+    "company_id": "C170",
+    "question": "How many employees does Company C170 have?",
+    "answer": "5020",
+    "expected_entity": "Company C170"
+  },
+  {
+    "id": "c36",
+    "category": "context_stat",
+    "company_id": "C459",
+    "question": "How many employees does Company C459 have?",
+    "answer": "44433",
+    "expected_entity": "Company C459"
+  },
+  {
+    "id": "c37",
+    "category": "context_stat",
+    "company_id": "C132",
+    "question": "How many employees does Company C132 have?",
+    "answer": "17625",
+    "expected_entity": "Company C132"
+  },
+  {
+    "id": "c38",
+    "category": "context_stat",
+    "company_id": "C297",
+    "question": "How many employees does Company C297 have?",
+    "answer": "1905",
+    "expected_entity": "Company C297"
+  },
+  {
+    "id": "c39",
+    "category": "context_stat",
+    "company_id": "C411",
+    "question": "How many employees does Company C411 have?",
+    "answer": "36650",
+    "expected_entity": "Company C411"
+  },
+  {
+    "id": "c40",
+    "category": "context_stat",
+    "company_id": "C412",
+    "question": "How many employees does Company C412 have?",
+    "answer": "28721",
+    "expected_entity": "Company C412"
+  },
+  {
+    "id": "c41",
+    "category": "context_stat",
+    "company_id": "C325",
+    "question": "How many employees does Company C325 have?",
+    "answer": "32988",
+    "expected_entity": "Company C325"
+  },
+  {
+    "id": "c42",
+    "category": "context_stat",
+    "company_id": "C029",
+    "question": "How many employees does Company C029 have?",
+    "answer": "16580",
+    "expected_entity": "Company C029"
+  },
+  {
+    "id": "c43",
+    "category": "context_stat",
+    "company_id": "C270",
+    "question": "How many employees does Company C270 have?",
+    "answer": "12395",
+    "expected_entity": "Company C270"
+  },
+  {
+    "id": "c44",
+    "category": "context_stat",
+    "company_id": "C389",
+    "question": "How many employees does Company C389 have?",
+    "answer": "6411",
+    "expected_entity": "Company C389"
+  },
+  {
+    "id": "c45",
+    "category": "context_stat",
+    "company_id": "C167",
+    "question": "How many employees does Company C167 have?",
+    "answer": "11467",
+    "expected_entity": "Company C167"
+  },
+  {
+    "id": "c46",
+    "category": "context_stat",
+    "company_id": "C180",
+    "question": "How many employees does Company C180 have?",
+    "answer": "7693",
+    "expected_entity": "Company C180"
+  },
+  {
+    "id": "c47",
+    "category": "context_stat",
+    "company_id": "C006",
+    "question": "How many employees does Company C006 have?",
+    "answer": "35355",
+    "expected_entity": "Company C006"
+  },
+  {
+    "id": "c48",
+    "category": "context_stat",
+    "company_id": "C242",
+    "question": "How many employees does Company C242 have?",
+    "answer": "28912",
+    "expected_entity": "Company C242"
+  },
+  {
+    "id": "c49",
+    "category": "context_stat",
+    "company_id": "C103",
+    "question": "How many employees does Company C103 have?",
+    "answer": "26175",
+    "expected_entity": "Company C103"
+  },
+  {
+    "id": "rl00",
+    "category": "role",
+    "company_id": "C005",
+    "question": "What is the role of Bob Martinez at Company C005?",
+    "answer": "CEO",
+    "expected_entity": "Company C005",
+    "expected_person": "Bob Martinez"
+  },
+  {
+    "id": "rl01",
+    "category": "role",
+    "company_id": "C049",
+    "question": "What is the role of Luna Cooper at Company C049?",
+    "answer": "COO",
+    "expected_entity": "Company C049",
+    "expected_person": "Luna Cooper"
+  },
+  {
+    "id": "rl02",
+    "category": "role",
+    "company_id": "C165",
+    "question": "What is the role of Zack Hall at Company C165?",
+    "answer": "CEO",
+    "expected_entity": "Company C165",
+    "expected_person": "Zack Hall"
+  },
+  {
+    "id": "rl03",
+    "category": "role",
+    "company_id": "C130",
+    "question": "What is the role of James Hill at Company C130?",
+    "answer": "Chief Architect",
+    "expected_entity": "Company C130",
+    "expected_person": "James Hill"
+  },
+  {
+    "id": "rl04",
+    "category": "role",
+    "company_id": "C178",
+    "question": "What is the role of Liam Adams at Company C178?",
+    "answer": "CFO",
+    "expected_entity": "Company C178",
+    "expected_person": "Liam Adams"
+  },
+  {
+    "id": "rl05",
+    "category": "role",
+    "company_id": "C382",
+    "question": "What is the role of Noah Carter at Company C382?",
+    "answer": "Head of Product",
+    "expected_entity": "Company C382",
+    "expected_person": "Noah Carter"
+  },
+  {
+    "id": "rl06",
+    "category": "role",
+    "company_id": "C068",
+    "question": "What is the role of Charlotte Green at Company C068?",
+    "answer": "VP Sales",
+    "expected_entity": "Company C068",
+    "expected_person": "Charlotte Green"
+  },
+  {
+    "id": "rl07",
+    "category": "role",
+    "company_id": "C346",
+    "question": "What is the role of Ivy Miller at Company C346?",
+    "answer": "CEO",
+    "expected_entity": "Company C346",
+    "expected_person": "Ivy Miller"
+  },
+  {
+    "id": "rl08",
+    "category": "role",
+    "company_id": "C463",
+    "question": "What is the role of Liam Adams at Company C463?",
+    "answer": "VP Sales",
+    "expected_entity": "Company C463",
+    "expected_person": "Liam Adams"
+  },
+  {
+    "id": "rl09",
+    "category": "role",
+    "company_id": "C462",
+    "question": "What is the role of Catherine King at Company C462?",
+    "answer": "CTO",
+    "expected_entity": "Company C462",
+    "expected_person": "Catherine King"
+  },
+  {
+    "id": "rl10",
+    "category": "role",
+    "company_id": "C422",
+    "question": "What is the role of Quinn Harris at Company C422?",
+    "answer": "Director of Ops",
+    "expected_entity": "Company C422",
+    "expected_person": "Quinn Harris"
+  },
+  {
+    "id": "rl11",
+    "category": "role",
+    "company_id": "C181",
+    "question": "What is the role of Frank Williams at Company C181?",
+    "answer": "VP Sales",
+    "expected_entity": "Company C181",
+    "expected_person": "Frank Williams"
+  },
+  {
+    "id": "rl12",
+    "category": "role",
+    "company_id": "C398",
+    "question": "What is the role of Eve Johnson at Company C398?",
+    "answer": "Board Member",
+    "expected_entity": "Company C398",
+    "expected_person": "Eve Johnson"
+  },
+  {
+    "id": "rl13",
+    "category": "role",
+    "company_id": "C480",
+    "question": "What is the role of Olivia Jackson at Company C480?",
+    "answer": "Chief Architect",
+    "expected_entity": "Company C480",
+    "expected_person": "Olivia Jackson"
+  },
+  {
+    "id": "rl14",
+    "category": "role",
+    "company_id": "C336",
+    "question": "What is the role of Xander Lee at Company C336?",
+    "answer": "SVP Strategy",
+    "expected_entity": "Company C336",
+    "expected_person": "Xander Lee"
+  },
+  {
+    "id": "rl15",
+    "category": "role",
+    "company_id": "C282",
+    "question": "What is the role of Alice Chen at Company C282?",
+    "answer": "VP Marketing",
+    "expected_entity": "Company C282",
+    "expected_person": "Alice Chen"
+  },
+  {
+    "id": "rl16",
+    "category": "role",
+    "company_id": "C172",
+    "question": "What is the role of Abigail Allen at Company C172?",
+    "answer": "VP Engineering",
+    "expected_entity": "Company C172",
+    "expected_person": "Abigail Allen"
+  },
+  {
+    "id": "rl17",
+    "category": "role",
+    "company_id": "C320",
+    "question": "What is the role of Rachel Martin at Company C320?",
+    "answer": "CFO",
+    "expected_entity": "Company C320",
+    "expected_person": "Rachel Martin"
+  },
+  {
+    "id": "rl18",
+    "category": "role",
+    "company_id": "C031",
+    "question": "What is the role of Xander Lee at Company C031?",
+    "answer": "Head of Product",
+    "expected_entity": "Company C031",
+    "expected_person": "Xander Lee"
+  },
+  {
+    "id": "rl19",
+    "category": "role",
+    "company_id": "C458",
+    "question": "What is the role of Ivy Miller at Company C458?",
+    "answer": "Director of Ops",
+    "expected_entity": "Company C458",
+    "expected_person": "Ivy Miller"
+  },
+  {
+    "id": "rl20",
+    "category": "role",
+    "company_id": "C482",
+    "question": "What is the role of Luna Cooper at Company C482?",
+    "answer": "General Counsel",
+    "expected_entity": "Company C482",
+    "expected_person": "Luna Cooper"
+  },
+  {
+    "id": "rl21",
+    "category": "role",
+    "company_id": "C322",
+    "question": "What is the role of Eve Johnson at Company C322?",
+    "answer": "Director of Ops",
+    "expected_entity": "Company C322",
+    "expected_person": "Eve Johnson"
+  },
+  {
+    "id": "rl22",
+    "category": "role",
+    "company_id": "C066",
+    "question": "What is the role of Aria Brooks at Company C066?",
+    "answer": "CEO",
+    "expected_entity": "Company C066",
+    "expected_person": "Aria Brooks"
+  },
+  {
+    "id": "rl23",
+    "category": "role",
+    "company_id": "C316",
+    "question": "What is the role of Paul White at Company C316?",
+    "answer": "General Counsel",
+    "expected_entity": "Company C316",
+    "expected_person": "Paul White"
+  },
+  {
+    "id": "rl24",
+    "category": "role",
+    "company_id": "C486",
+    "question": "What is the role of Amelia King at Company C486?",
+    "answer": "CTO",
+    "expected_entity": "Company C486",
+    "expected_person": "Amelia King"
+  },
+  {
+    "id": "rl25",
+    "category": "role",
+    "company_id": "C205",
+    "question": "What is the role of Scarlett Hayes at Company C205?",
+    "answer": "CTO",
+    "expected_entity": "Company C205",
+    "expected_person": "Scarlett Hayes"
+  },
+  {
+    "id": "rl26",
+    "category": "role",
+    "company_id": "C427",
+    "question": "What is the role of Uma Robinson at Company C427?",
+    "answer": "Board Member",
+    "expected_entity": "Company C427",
+    "expected_person": "Uma Robinson"
+  },
+  {
+    "id": "rl27",
+    "category": "role",
+    "company_id": "C091",
+    "question": "What is the role of Charlotte Green at Company C091?",
+    "answer": "CFO",
+    "expected_entity": "Company C091",
+    "expected_person": "Charlotte Green"
+  },
+  {
+    "id": "rl28",
+    "category": "role",
+    "company_id": "C328",
+    "question": "What is the role of Karen Moore at Company C328?",
+    "answer": "CFO",
+    "expected_entity": "Company C328",
+    "expected_person": "Karen Moore"
+  },
+  {
+    "id": "rl29",
+    "category": "role",
+    "company_id": "C388",
+    "question": "What is the role of Olivia Jackson at Company C388?",
+    "answer": "Board Member",
+    "expected_entity": "Company C388",
+    "expected_person": "Olivia Jackson"
+  },
+  {
+    "id": "rl30",
+    "category": "role",
+    "company_id": "C420",
+    "question": "What is the role of Liam Adams at Company C420?",
+    "answer": "Advisor",
+    "expected_entity": "Company C420",
+    "expected_person": "Liam Adams"
+  },
+  {
+    "id": "rl31",
+    "category": "role",
+    "company_id": "C019",
+    "question": "What is the role of Eve Johnson at Company C019?",
+    "answer": "Head of Product",
+    "expected_entity": "Company C019",
+    "expected_person": "Eve Johnson"
+  },
+  {
+    "id": "rl32",
+    "category": "role",
+    "company_id": "C272",
+    "question": "What is the role of Quinn Harris at Company C272?",
+    "answer": "Head of Product",
+    "expected_entity": "Company C272",
+    "expected_person": "Quinn Harris"
+  },
+  {
+    "id": "rl33",
+    "category": "role",
+    "company_id": "C222",
+    "question": "What is the role of Victor Clark at Company C222?",
+    "answer": "General Counsel",
+    "expected_entity": "Company C222",
+    "expected_person": "Victor Clark"
+  },
+  {
+    "id": "rl34",
+    "category": "role",
+    "company_id": "C109",
+    "question": "What is the role of Sam Thompson at Company C109?",
+    "answer": "Head of Product",
+    "expected_entity": "Company C109",
+    "expected_person": "Sam Thompson"
+  },
+  {
+    "id": "rl35",
+    "category": "role",
+    "company_id": "C182",
+    "question": "What is the role of Benjamin Young at Company C182?",
+    "answer": "CEO",
+    "expected_entity": "Company C182",
+    "expected_person": "Benjamin Young"
+  },
+  {
+    "id": "rl36",
+    "category": "role",
+    "company_id": "C494",
+    "question": "What is the role of Ivy Miller at Company C494?",
+    "answer": "CEO",
+    "expected_entity": "Company C494",
+    "expected_person": "Ivy Miller"
+  },
+  {
+    "id": "rl37",
+    "category": "role",
+    "company_id": "C407",
+    "question": "What is the role of Dave Kim at Company C407?",
+    "answer": "VP Sales",
+    "expected_entity": "Company C407",
+    "expected_person": "Dave Kim"
+  },
+  {
+    "id": "rl38",
+    "category": "role",
+    "company_id": "C265",
+    "question": "What is the role of Sam Thompson at Company C265?",
+    "answer": "CEO",
+    "expected_entity": "Company C265",
+    "expected_person": "Sam Thompson"
+  },
+  {
+    "id": "rl39",
+    "category": "role",
+    "company_id": "C221",
+    "question": "What is the role of Mason Rivera at Company C221?",
+    "answer": "General Counsel",
+    "expected_entity": "Company C221",
+    "expected_person": "Mason Rivera"
+  },
+  {
+    "id": "rl40",
+    "category": "role",
+    "company_id": "C488",
+    "question": "What is the role of Alice Chen at Company C488?",
+    "answer": "VP Sales",
+    "expected_entity": "Company C488",
+    "expected_person": "Alice Chen"
+  },
+  {
+    "id": "rl41",
+    "category": "role",
+    "company_id": "C307",
+    "question": "What is the role of Jack Wilson at Company C307?",
+    "answer": "COO",
+    "expected_entity": "Company C307",
+    "expected_person": "Jack Wilson"
+  },
+  {
+    "id": "rl42",
+    "category": "role",
+    "company_id": "C226",
+    "question": "What is the role of Karen Moore at Company C226?",
+    "answer": "SVP Strategy",
+    "expected_entity": "Company C226",
+    "expected_person": "Karen Moore"
+  },
+  {
+    "id": "rl43",
+    "category": "role",
+    "company_id": "C247",
+    "question": "What is the role of Sophia Baker at Company C247?",
+    "answer": "General Counsel",
+    "expected_entity": "Company C247",
+    "expected_person": "Sophia Baker"
+  },
+  {
+    "id": "rl44",
+    "category": "role",
+    "company_id": "C030",
+    "question": "What is the role of Tina Garcia at Company C030?",
+    "answer": "Advisor",
+    "expected_entity": "Company C030",
+    "expected_person": "Tina Garcia"
+  },
+  {
+    "id": "rl45",
+    "category": "role",
+    "company_id": "C402",
+    "question": "What is the role of Wendy Lewis at Company C402?",
+    "answer": "CTO",
+    "expected_entity": "Company C402",
+    "expected_person": "Wendy Lewis"
+  },
+  {
+    "id": "rl46",
+    "category": "role",
+    "company_id": "C439",
+    "question": "What is the role of Frank Williams at Company C439?",
+    "answer": "VP Engineering",
+    "expected_entity": "Company C439",
+    "expected_person": "Frank Williams"
+  },
+  {
+    "id": "rl47",
+    "category": "role",
+    "company_id": "C482",
+    "question": "What is the role of Yara Walker at Company C482?",
+    "answer": "CFO",
+    "expected_entity": "Company C482",
+    "expected_person": "Yara Walker"
+  },
+  {
+    "id": "rl48",
+    "category": "role",
+    "company_id": "C133",
+    "question": "What is the role of Zack Hall at Company C133?",
+    "answer": "Head of Product",
+    "expected_entity": "Company C133",
+    "expected_person": "Zack Hall"
+  },
+  {
+    "id": "rl49",
+    "category": "role",
+    "company_id": "C235",
+    "question": "What is the role of Victor Clark at Company C235?",
+    "answer": "SVP Strategy",
+    "expected_entity": "Company C235",
+    "expected_person": "Victor Clark"
+  },
+  {
+    "id": "mk00",
+    "category": "marker",
+    "company_id": "C294",
+    "question": "What notable event happened at Company C294 on 2025-03-19?",
+    "answer": "Oliver Lopez replaced by Benjamin Young as Head of Product",
+    "expected_entity": "Company C294"
+  },
+  {
+    "id": "mk01",
+    "category": "marker",
+    "company_id": "C188",
+    "question": "What notable event happened at Company C188 on 2025-05-29?",
+    "answer": "secured patent for ConnectMesh",
+    "expected_entity": "Company C188"
+  },
+  {
+    "id": "mk02",
+    "category": "marker",
+    "company_id": "C102",
+    "question": "What notable event happened at Company C102 on 2025-02-10?",
+    "answer": "received FedRAMP certification",
+    "expected_entity": "Company C102"
+  },
+  {
+    "id": "mk03",
+    "category": "marker",
+    "company_id": "C151",
+    "question": "What notable event happened at Company C151 on 2025-08-28?",
+    "answer": "acquired a smaller rival",
+    "expected_entity": "Company C151"
+  },
+  {
+    "id": "mk04",
+    "category": "marker",
+    "company_id": "C314",
+    "question": "What notable event happened at Company C314 on 2025-12-10?",
+    "answer": "opened office in Austin",
+    "expected_entity": "Company C314"
+  },
+  {
+    "id": "mk05",
+    "category": "marker",
+    "company_id": "C080",
+    "question": "What notable event happened at Company C080 on 2025-12-11?",
+    "answer": "Company C080 status changed to Active",
+    "expected_entity": "Company C080"
+  },
+  {
+    "id": "mk06",
+    "category": "marker",
+    "company_id": "C324",
+    "question": "What notable event happened at Company C324 on 2025-12-08?",
+    "answer": "Company C324 status changed to Restructuring",
+    "expected_entity": "Company C324"
+  },
+  {
+    "id": "mk07",
+    "category": "marker",
+    "company_id": "C127",
+    "question": "What notable event happened at Company C127 on 2025-11-14?",
+    "answer": "Dave Kim replaced by Noah Carter as CEO",
+    "expected_entity": "Company C127"
+  },
+  {
+    "id": "mk08",
+    "category": "marker",
+    "company_id": "C096",
+    "question": "What notable event happened at Company C096 on 2025-06-13?",
+    "answer": "opened office in Sydney",
+    "expected_entity": "Company C096"
+  },
+  {
+    "id": "mk09",
+    "category": "marker",
+    "company_id": "C080",
+    "question": "What notable event happened at Company C080 on 2025-01-11?",
+    "answer": "Ivy Miller replaced by Grace Brown as Head of Product",
+    "expected_entity": "Company C080"
+  },
+  {
+    "id": "mk10",
+    "category": "marker",
+    "company_id": "C157",
+    "question": "What notable event happened at Company C157 on 2025-05-18?",
+    "answer": "Sam Thompson replaced by Mia Evans as Director of Ops",
+    "expected_entity": "Company C157"
+  },
+  {
+    "id": "mk11",
+    "category": "marker",
+    "company_id": "C330",
+    "question": "What notable event happened at Company C330 on 2025-10-05?",
+    "answer": "Lucas Foster replaced by Liam Adams as General Counsel",
+    "expected_entity": "Company C330"
+  },
+  {
+    "id": "mk12",
+    "category": "marker",
+    "company_id": "C422",
+    "question": "What notable event happened at Company C422 on 2025-01-23?",
+    "answer": "Victor Clark replaced by Leo Taylor as Advisor",
+    "expected_entity": "Company C422"
+  },
+  {
+    "id": "mk13",
+    "category": "marker",
+    "company_id": "C340",
+    "question": "What notable event happened at Company C340 on 2025-09-03?",
+    "answer": "exited Africa market",
+    "expected_entity": "Company C340"
+  },
+  {
+    "id": "mk14",
+    "category": "marker",
+    "company_id": "C425",
+    "question": "What notable event happened at Company C425 on 2025-07-23?",
+    "answer": "signed $300M contract with JPMorgan",
+    "expected_entity": "Company C425"
+  },
+  {
+    "id": "mk15",
+    "category": "marker",
+    "company_id": "C039",
+    "question": "What notable event happened at Company C039 on 2025-04-15?",
+    "answer": "Nathan Thomas replaced by Mason Rivera as VP Engineering",
+    "expected_entity": "Company C039"
+  },
+  {
+    "id": "mk16",
+    "category": "marker",
+    "company_id": "C081",
+    "question": "What notable event happened at Company C081 on 2025-02-04?",
+    "answer": "raised $415M Series B",
+    "expected_entity": "Company C081"
+  },
+  {
+    "id": "mk17",
+    "category": "marker",
+    "company_id": "C341",
+    "question": "What notable event happened at Company C341 on 2025-11-21?",
+    "answer": "Sophia Baker replaced by Zack Hall as Head of Product",
+    "expected_entity": "Company C341"
+  },
+  {
+    "id": "mk18",
+    "category": "marker",
+    "company_id": "C342",
+    "question": "What notable event happened at Company C342 on 2025-01-21?",
+    "answer": "launched product OptiFlow v5.6",
+    "expected_entity": "Company C342"
+  },
+  {
+    "id": "mk19",
+    "category": "marker",
+    "company_id": "C042",
+    "question": "What notable event happened at Company C042 on 2025-05-17?",
+    "answer": "Company C042 status changed to IPO",
+    "expected_entity": "Company C042"
+  },
+  {
+    "id": "mk20",
+    "category": "marker",
+    "company_id": "C262",
+    "question": "What notable event happened at Company C262 on 2025-06-15?",
+    "answer": "opened office in Berlin",
+    "expected_entity": "Company C262"
+  },
+  {
+    "id": "mk21",
+    "category": "marker",
+    "company_id": "C080",
+    "question": "What notable event happened at Company C080 on 2025-11-07?",
+    "answer": "signed $209M contract with Microsoft",
+    "expected_entity": "Company C080"
+  },
+  {
+    "id": "mk22",
+    "category": "marker",
+    "company_id": "C048",
+    "question": "What notable event happened at Company C048 on 2025-09-16?",
+    "answer": "acquired a competitor",
+    "expected_entity": "Company C048"
+  },
+  {
+    "id": "mk23",
+    "category": "marker",
+    "company_id": "C414",
+    "question": "What notable event happened at Company C414 on 2025-09-28?",
+    "answer": "Olivia Jackson replaced by Noah Carter as Advisor",
+    "expected_entity": "Company C414"
+  },
+  {
+    "id": "mk24",
+    "category": "marker",
+    "company_id": "C145",
+    "question": "What notable event happened at Company C145 on 2025-02-17?",
+    "answer": "launched product StreamLine v3.3",
+    "expected_entity": "Company C145"
+  },
+  {
+    "id": "mk25",
+    "category": "marker",
+    "company_id": "C445",
+    "question": "What notable event happened at Company C445 on 2025-08-26?",
+    "answer": "opened office in Sydney",
+    "expected_entity": "Company C445"
+  },
+  {
+    "id": "mk26",
+    "category": "marker",
+    "company_id": "C469",
+    "question": "What notable event happened at Company C469 on 2025-01-13?",
+    "answer": "signed $377M contract with Tesla",
+    "expected_entity": "Company C469"
+  },
+  {
+    "id": "mk27",
+    "category": "marker",
+    "company_id": "C470",
+    "question": "What notable event happened at Company C470 on 2025-09-14?",
+    "answer": "Company C470 status changed to Inactive",
+    "expected_entity": "Company C470"
+  },
+  {
+    "id": "mk28",
+    "category": "marker",
+    "company_id": "C064",
+    "question": "What notable event happened at Company C064 on 2025-01-03?",
+    "answer": "acquired a complementary tech firm",
+    "expected_entity": "Company C064"
+  },
+  {
+    "id": "mk29",
+    "category": "marker",
+    "company_id": "C030",
+    "question": "What notable event happened at Company C030 on 2025-08-22?",
+    "answer": "Mia Evans replaced by Catherine King as CEO",
+    "expected_entity": "Company C030"
+  },
+  {
+    "id": "mk30",
+    "category": "marker",
+    "company_id": "C440",
+    "question": "What notable event happened at Company C440 on 2025-07-15?",
+    "answer": "Frank Williams replaced by Karen Moore as Advisor",
+    "expected_entity": "Company C440"
+  },
+  {
+    "id": "mk31",
+    "category": "marker",
+    "company_id": "C167",
+    "question": "What notable event happened at Company C167 on 2025-09-23?",
+    "answer": "Alice Chen replaced by Grace Brown as Director of Ops",
+    "expected_entity": "Company C167"
+  },
+  {
+    "id": "mk32",
+    "category": "marker",
+    "company_id": "C090",
+    "question": "What notable event happened at Company C090 on 2025-11-16?",
+    "answer": "Nathan Thomas replaced by Quinn Harris as General Counsel",
+    "expected_entity": "Company C090"
+  },
+  {
+    "id": "mk33",
+    "category": "marker",
+    "company_id": "C301",
+    "question": "What notable event happened at Company C301 on 2025-05-20?",
+    "answer": "Charlotte Green replaced by Sophia Baker as COO",
+    "expected_entity": "Company C301"
+  },
+  {
+    "id": "mk34",
+    "category": "marker",
+    "company_id": "C165",
+    "question": "What notable event happened at Company C165 on 2025-07-10?",
+    "answer": "Company C165 status changed to Active",
+    "expected_entity": "Company C165"
+  },
+  {
+    "id": "mk35",
+    "category": "marker",
+    "company_id": "C131",
+    "question": "What notable event happened at Company C131 on 2025-11-13?",
+    "answer": "Carol Singh replaced by Sophia Baker as General Counsel",
+    "expected_entity": "Company C131"
+  },
+  {
+    "id": "mk36",
+    "category": "marker",
+    "company_id": "C158",
+    "question": "What notable event happened at Company C158 on 2025-07-16?",
+    "answer": "appointed Quinn Harris as new General Counsel",
+    "expected_entity": "Company C158"
+  },
+  {
+    "id": "mk37",
+    "category": "marker",
+    "company_id": "C464",
+    "question": "What notable event happened at Company C464 on 2025-03-17?",
+    "answer": "raised $488M Series E",
+    "expected_entity": "Company C464"
+  },
+  {
+    "id": "mk38",
+    "category": "marker",
+    "company_id": "C103",
+    "question": "What notable event happened at Company C103 on 2025-10-04?",
+    "answer": "reached 55860 paying customers",
+    "expected_entity": "Company C103"
+  },
+  {
+    "id": "mk39",
+    "category": "marker",
+    "company_id": "C415",
+    "question": "What notable event happened at Company C415 on 2025-08-10?",
+    "answer": "reached 35912 paying customers",
+    "expected_entity": "Company C415"
+  },
+  {
+    "id": "mk40",
+    "category": "marker",
+    "company_id": "C149",
+    "question": "What notable event happened at Company C149 on 2025-12-28?",
+    "answer": "raised $372M Series C",
+    "expected_entity": "Company C149"
+  },
+  {
+    "id": "mk41",
+    "category": "marker",
+    "company_id": "C259",
+    "question": "What notable event happened at Company C259 on 2025-11-22?",
+    "answer": "Company C259 status changed to IPO",
+    "expected_entity": "Company C259"
+  },
+  {
+    "id": "mk42",
+    "category": "marker",
+    "company_id": "C286",
+    "question": "What notable event happened at Company C286 on 2025-07-10?",
+    "answer": "Leo Taylor replaced by Eve Johnson as Head of Product",
+    "expected_entity": "Company C286"
+  },
+  {
+    "id": "mk43",
+    "category": "marker",
+    "company_id": "C009",
+    "question": "What notable event happened at Company C009 on 2025-05-12?",
+    "answer": "exited Africa market",
+    "expected_entity": "Company C009"
+  },
+  {
+    "id": "mk44",
+    "category": "marker",
+    "company_id": "C157",
+    "question": "What notable event happened at Company C157 on 2025-02-20?",
+    "answer": "signed $360M contract with Salesforce",
+    "expected_entity": "Company C157"
+  },
+  {
+    "id": "mk45",
+    "category": "marker",
+    "company_id": "C264",
+    "question": "What notable event happened at Company C264 on 2025-01-13?",
+    "answer": "Mia Evans replaced by Alice Chen as Head of Product",
+    "expected_entity": "Company C264"
+  },
+  {
+    "id": "mk46",
+    "category": "marker",
+    "company_id": "C297",
+    "question": "What notable event happened at Company C297 on 2025-11-13?",
+    "answer": "secured patent for CloudSync",
+    "expected_entity": "Company C297"
+  },
+  {
+    "id": "mk47",
+    "category": "marker",
+    "company_id": "C214",
+    "question": "What notable event happened at Company C214 on 2025-02-13?",
+    "answer": "hired 70729 new employees",
+    "expected_entity": "Company C214"
+  },
+  {
+    "id": "mk48",
+    "category": "marker",
+    "company_id": "C004",
+    "question": "What notable event happened at Company C004 on 2025-02-04?",
+    "answer": "Dave Kim replaced by Noah Carter as Board Member",
+    "expected_entity": "Company C004"
+  },
+  {
+    "id": "mk49",
+    "category": "marker",
+    "company_id": "C123",
+    "question": "What notable event happened at Company C123 on 2025-08-28?",
+    "answer": "opened office in Austin",
+    "expected_entity": "Company C123"
+  },
+  {
+    "id": "tp00",
+    "category": "temporal_topic",
+    "company_id": "C298",
+    "question": "What key events happened at Company C298 around 2025-07-02?",
+    "answer": "Company C298 daily status: Active",
+    "expected_entity": "Company C298",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp01",
+    "category": "temporal_topic",
+    "company_id": "C305",
+    "question": "What key events happened at Company C305 around 2025-07-02?",
+    "answer": "Company C305 daily status: Active",
+    "expected_entity": "Company C305",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp02",
+    "category": "temporal_topic",
+    "company_id": "C242",
+    "question": "What key events happened at Company C242 around 2025-07-02?",
+    "answer": "Company C242 daily status: Inactive; hired 19405 new employees",
+    "expected_entity": "Company C242",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp03",
+    "category": "temporal_topic",
+    "company_id": "C206",
+    "question": "What key events happened at Company C206 around 2025-07-02?",
+    "answer": "Company C206 daily status: Active; hired 76898 new employees",
+    "expected_entity": "Company C206",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp04",
+    "category": "temporal_topic",
+    "company_id": "C424",
+    "question": "What key events happened at Company C424 around 2025-07-02?",
+    "answer": "Company C424 daily status: Acquired",
+    "expected_entity": "Company C424",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp05",
+    "category": "temporal_topic",
+    "company_id": "C212",
+    "question": "What key events happened at Company C212 around 2025-07-02?",
+    "answer": "Company C212 daily status: Active",
+    "expected_entity": "Company C212",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp06",
+    "category": "temporal_topic",
+    "company_id": "C265",
+    "question": "What key events happened at Company C265 around 2025-07-02?",
+    "answer": "Company C265 daily status: Inactive",
+    "expected_entity": "Company C265",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp07",
+    "category": "temporal_topic",
+    "company_id": "C434",
+    "question": "What key events happened at Company C434 around 2025-07-02?",
+    "answer": "Company C434 daily status: Acquired; hired 71380 new employees",
+    "expected_entity": "Company C434",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp08",
+    "category": "temporal_topic",
+    "company_id": "C215",
+    "question": "What key events happened at Company C215 around 2025-07-02?",
+    "answer": "Company C215 daily status: Inactive",
+    "expected_entity": "Company C215",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp09",
+    "category": "temporal_topic",
+    "company_id": "C474",
+    "question": "What key events happened at Company C474 around 2025-07-02?",
+    "answer": "Company C474 daily status: Acquired",
+    "expected_entity": "Company C474",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp10",
+    "category": "temporal_topic",
+    "company_id": "C489",
+    "question": "What key events happened at Company C489 around 2025-07-02?",
+    "answer": "Company C489 daily status: Active",
+    "expected_entity": "Company C489",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp11",
+    "category": "temporal_topic",
+    "company_id": "C044",
+    "question": "What key events happened at Company C044 around 2025-07-02?",
+    "answer": "Company C044 daily status: Inactive",
+    "expected_entity": "Company C044",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp12",
+    "category": "temporal_topic",
+    "company_id": "C335",
+    "question": "What key events happened at Company C335 around 2025-07-02?",
+    "answer": "Company C335 daily status: Active",
+    "expected_entity": "Company C335",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp13",
+    "category": "temporal_topic",
+    "company_id": "C321",
+    "question": "What key events happened at Company C321 around 2025-07-02?",
+    "answer": "Company C321 daily status: Active",
+    "expected_entity": "Company C321",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp14",
+    "category": "temporal_topic",
+    "company_id": "C129",
+    "question": "What key events happened at Company C129 around 2025-07-02?",
+    "answer": "Company C129 daily status: Active; appointed Daniel Wright as new Advisor",
+    "expected_entity": "Company C129",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp15",
+    "category": "temporal_topic",
+    "company_id": "C203",
+    "question": "What key events happened at Company C203 around 2025-07-02?",
+    "answer": "Company C203 daily status: Active",
+    "expected_entity": "Company C203",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp16",
+    "category": "temporal_topic",
+    "company_id": "C182",
+    "question": "What key events happened at Company C182 around 2025-07-02?",
+    "answer": "Company C182 daily status: Active",
+    "expected_entity": "Company C182",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp17",
+    "category": "temporal_topic",
+    "company_id": "C342",
+    "question": "What key events happened at Company C342 around 2025-07-02?",
+    "answer": "Company C342 daily status: Restructuring",
+    "expected_entity": "Company C342",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp18",
+    "category": "temporal_topic",
+    "company_id": "C494",
+    "question": "What key events happened at Company C494 around 2025-07-02?",
+    "answer": "Company C494 daily status: Active",
+    "expected_entity": "Company C494",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp19",
+    "category": "temporal_topic",
+    "company_id": "C292",
+    "question": "What key events happened at Company C292 around 2025-07-02?",
+    "answer": "Company C292 daily status: Active",
+    "expected_entity": "Company C292",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp20",
+    "category": "temporal_topic",
+    "company_id": "C350",
+    "question": "What key events happened at Company C350 around 2025-07-02?",
+    "answer": "Company C350 daily status: Inactive",
+    "expected_entity": "Company C350",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp21",
+    "category": "temporal_topic",
+    "company_id": "C128",
+    "question": "What key events happened at Company C128 around 2025-07-02?",
+    "answer": "Company C128 daily status: Active",
+    "expected_entity": "Company C128",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp22",
+    "category": "temporal_topic",
+    "company_id": "C391",
+    "question": "What key events happened at Company C391 around 2025-07-02?",
+    "answer": "Company C391 daily status: Active; Tina Garcia replaced by Henry Davis as VP Marketing",
+    "expected_entity": "Company C391",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp23",
+    "category": "temporal_topic",
+    "company_id": "C435",
+    "question": "What key events happened at Company C435 around 2025-07-02?",
+    "answer": "Company C435 daily status: Active",
+    "expected_entity": "Company C435",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp24",
+    "category": "temporal_topic",
+    "company_id": "C129",
+    "question": "What key events happened at Company C129 around 2025-07-02?",
+    "answer": "Company C129 daily status: Active; appointed Daniel Wright as new Advisor",
+    "expected_entity": "Company C129",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp25",
+    "category": "temporal_topic",
+    "company_id": "C428",
+    "question": "What key events happened at Company C428 around 2025-07-02?",
+    "answer": "Company C428 daily status: Active",
+    "expected_entity": "Company C428",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp26",
+    "category": "temporal_topic",
+    "company_id": "C145",
+    "question": "What key events happened at Company C145 around 2025-07-02?",
+    "answer": "Company C145 daily status: IPO",
+    "expected_entity": "Company C145",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp27",
+    "category": "temporal_topic",
+    "company_id": "C119",
+    "question": "What key events happened at Company C119 around 2025-07-02?",
+    "answer": "Company C119 daily status: Active",
+    "expected_entity": "Company C119",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp28",
+    "category": "temporal_topic",
+    "company_id": "C417",
+    "question": "What key events happened at Company C417 around 2025-07-02?",
+    "answer": "Company C417 daily status: Active; Company C417 status changed to IPO",
+    "expected_entity": "Company C417",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp29",
+    "category": "temporal_topic",
+    "company_id": "C438",
+    "question": "What key events happened at Company C438 around 2025-07-02?",
+    "answer": "Company C438 daily status: Active",
+    "expected_entity": "Company C438",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp30",
+    "category": "temporal_topic",
+    "company_id": "C418",
+    "question": "What key events happened at Company C418 around 2025-07-02?",
+    "answer": "Company C418 daily status: IPO",
+    "expected_entity": "Company C418",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp31",
+    "category": "temporal_topic",
+    "company_id": "C228",
+    "question": "What key events happened at Company C228 around 2025-07-02?",
+    "answer": "Company C228 daily status: Active",
+    "expected_entity": "Company C228",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp32",
+    "category": "temporal_topic",
+    "company_id": "C284",
+    "question": "What key events happened at Company C284 around 2025-07-02?",
+    "answer": "Company C284 daily status: Restructuring",
+    "expected_entity": "Company C284",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp33",
+    "category": "temporal_topic",
+    "company_id": "C036",
+    "question": "What key events happened at Company C036 around 2025-07-02?",
+    "answer": "Company C036 daily status: Restructuring",
+    "expected_entity": "Company C036",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp34",
+    "category": "temporal_topic",
+    "company_id": "C395",
+    "question": "What key events happened at Company C395 around 2025-07-02?",
+    "answer": "Company C395 daily status: Inactive",
+    "expected_entity": "Company C395",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp35",
+    "category": "temporal_topic",
+    "company_id": "C274",
+    "question": "What key events happened at Company C274 around 2025-07-02?",
+    "answer": "Company C274 daily status: Active",
+    "expected_entity": "Company C274",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp36",
+    "category": "temporal_topic",
+    "company_id": "C263",
+    "question": "What key events happened at Company C263 around 2025-07-02?",
+    "answer": "Company C263 daily status: Acquired",
+    "expected_entity": "Company C263",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp37",
+    "category": "temporal_topic",
+    "company_id": "C430",
+    "question": "What key events happened at Company C430 around 2025-07-02?",
+    "answer": "Company C430 daily status: Active; Tina Garcia replaced by Luna Cooper as VP Engineering",
+    "expected_entity": "Company C430",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp38",
+    "category": "temporal_topic",
+    "company_id": "C463",
+    "question": "What key events happened at Company C463 around 2025-07-02?",
+    "answer": "Company C463 daily status: IPO",
+    "expected_entity": "Company C463",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp39",
+    "category": "temporal_topic",
+    "company_id": "C008",
+    "question": "What key events happened at Company C008 around 2025-07-02?",
+    "answer": "Company C008 daily status: Active",
+    "expected_entity": "Company C008",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp40",
+    "category": "temporal_topic",
+    "company_id": "C152",
+    "question": "What key events happened at Company C152 around 2025-07-02?",
+    "answer": "Company C152 daily status: Active; appointed Bob Martinez as new CTO",
+    "expected_entity": "Company C152",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp41",
+    "category": "temporal_topic",
+    "company_id": "C190",
+    "question": "What key events happened at Company C190 around 2025-07-02?",
+    "answer": "Company C190 daily status: Active",
+    "expected_entity": "Company C190",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp42",
+    "category": "temporal_topic",
+    "company_id": "C471",
+    "question": "What key events happened at Company C471 around 2025-07-02?",
+    "answer": "Company C471 daily status: Inactive; opened office in Austin",
+    "expected_entity": "Company C471",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp43",
+    "category": "temporal_topic",
+    "company_id": "C000",
+    "question": "What key events happened at Company C000 around 2025-07-02?",
+    "answer": "Company C000 daily status: IPO; partnered with Tesla on remote-first policy",
+    "expected_entity": "Company C000",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp44",
+    "category": "temporal_topic",
+    "company_id": "C192",
+    "question": "What key events happened at Company C192 around 2025-07-02?",
+    "answer": "Company C192 daily status: Active",
+    "expected_entity": "Company C192",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp45",
+    "category": "temporal_topic",
+    "company_id": "C263",
+    "question": "What key events happened at Company C263 around 2025-07-02?",
+    "answer": "Company C263 daily status: Acquired",
+    "expected_entity": "Company C263",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp46",
+    "category": "temporal_topic",
+    "company_id": "C294",
+    "question": "What key events happened at Company C294 around 2025-07-02?",
+    "answer": "Company C294 daily status: Active",
+    "expected_entity": "Company C294",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp47",
+    "category": "temporal_topic",
+    "company_id": "C463",
+    "question": "What key events happened at Company C463 around 2025-07-02?",
+    "answer": "Company C463 daily status: IPO",
+    "expected_entity": "Company C463",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp48",
+    "category": "temporal_topic",
+    "company_id": "C377",
+    "question": "What key events happened at Company C377 around 2025-07-02?",
+    "answer": "Company C377 daily status: Active; reached 96905 paying customers",
+    "expected_entity": "Company C377",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tp49",
+    "category": "temporal_topic",
+    "company_id": "C194",
+    "question": "What key events happened at Company C194 around 2025-07-02?",
+    "answer": "Company C194 daily status: Restructuring",
+    "expected_entity": "Company C194",
+    "expected_date": "2025-07-02"
+  },
+  {
+    "id": "tr00",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha0?",
+    "company_id": "FAKE_000",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha0"
+  },
+  {
+    "id": "tr01",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha1?",
+    "company_id": "FAKE_001",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha1"
+  },
+  {
+    "id": "tr02",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha2?",
+    "company_id": "FAKE_002",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha2"
+  },
+  {
+    "id": "tr03",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha3?",
+    "company_id": "FAKE_003",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha3"
+  },
+  {
+    "id": "tr04",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha4?",
+    "company_id": "FAKE_004",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha4"
+  },
+  {
+    "id": "tr05",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha5?",
+    "company_id": "FAKE_005",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha5"
+  },
+  {
+    "id": "tr06",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha6?",
+    "company_id": "FAKE_006",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha6"
+  },
+  {
+    "id": "tr07",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha7?",
+    "company_id": "FAKE_007",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha7"
+  },
+  {
+    "id": "tr08",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha8?",
+    "company_id": "FAKE_008",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha8"
+  },
+  {
+    "id": "tr09",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha9?",
+    "company_id": "FAKE_009",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha9"
+  },
+  {
+    "id": "tr10",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha10?",
+    "company_id": "FAKE_010",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha10"
+  },
+  {
+    "id": "tr11",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha11?",
+    "company_id": "FAKE_011",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha11"
+  },
+  {
+    "id": "tr12",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha12?",
+    "company_id": "FAKE_012",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha12"
+  },
+  {
+    "id": "tr13",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha13?",
+    "company_id": "FAKE_013",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha13"
+  },
+  {
+    "id": "tr14",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha14?",
+    "company_id": "FAKE_014",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha14"
+  },
+  {
+    "id": "tr15",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha15?",
+    "company_id": "FAKE_015",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha15"
+  },
+  {
+    "id": "tr16",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha16?",
+    "company_id": "FAKE_016",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha16"
+  },
+  {
+    "id": "tr17",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha17?",
+    "company_id": "FAKE_017",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha17"
+  },
+  {
+    "id": "tr18",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha18?",
+    "company_id": "FAKE_018",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha18"
+  },
+  {
+    "id": "tr19",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha19?",
+    "company_id": "FAKE_019",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha19"
+  },
+  {
+    "id": "tr20",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha20?",
+    "company_id": "FAKE_020",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha20"
+  },
+  {
+    "id": "tr21",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha21?",
+    "company_id": "FAKE_021",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha21"
+  },
+  {
+    "id": "tr22",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha22?",
+    "company_id": "FAKE_022",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha22"
+  },
+  {
+    "id": "tr23",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha23?",
+    "company_id": "FAKE_023",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha23"
+  },
+  {
+    "id": "tr24",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha24?",
+    "company_id": "FAKE_024",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha24"
+  },
+  {
+    "id": "tr25",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha25?",
+    "company_id": "FAKE_025",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha25"
+  },
+  {
+    "id": "tr26",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha26?",
+    "company_id": "FAKE_026",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha26"
+  },
+  {
+    "id": "tr27",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha27?",
+    "company_id": "FAKE_027",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha27"
+  },
+  {
+    "id": "tr28",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha28?",
+    "company_id": "FAKE_028",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha28"
+  },
+  {
+    "id": "tr29",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha29?",
+    "company_id": "FAKE_029",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha29"
+  },
+  {
+    "id": "tr30",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha30?",
+    "company_id": "FAKE_030",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha30"
+  },
+  {
+    "id": "tr31",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha31?",
+    "company_id": "FAKE_031",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha31"
+  },
+  {
+    "id": "tr32",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha32?",
+    "company_id": "FAKE_032",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha32"
+  },
+  {
+    "id": "tr33",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha33?",
+    "company_id": "FAKE_033",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha33"
+  },
+  {
+    "id": "tr34",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha34?",
+    "company_id": "FAKE_034",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha34"
+  },
+  {
+    "id": "tr35",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha35?",
+    "company_id": "FAKE_035",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha35"
+  },
+  {
+    "id": "tr36",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha36?",
+    "company_id": "FAKE_036",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha36"
+  },
+  {
+    "id": "tr37",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha37?",
+    "company_id": "FAKE_037",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha37"
+  },
+  {
+    "id": "tr38",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha38?",
+    "company_id": "FAKE_038",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha38"
+  },
+  {
+    "id": "tr39",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha39?",
+    "company_id": "FAKE_039",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha39"
+  },
+  {
+    "id": "tr40",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha40?",
+    "company_id": "FAKE_040",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha40"
+  },
+  {
+    "id": "tr41",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha41?",
+    "company_id": "FAKE_041",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha41"
+  },
+  {
+    "id": "tr42",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha42?",
+    "company_id": "FAKE_042",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha42"
+  },
+  {
+    "id": "tr43",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha43?",
+    "company_id": "FAKE_043",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha43"
+  },
+  {
+    "id": "tr44",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha44?",
+    "company_id": "FAKE_044",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha44"
+  },
+  {
+    "id": "tr45",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha45?",
+    "company_id": "FAKE_045",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha45"
+  },
+  {
+    "id": "tr46",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha46?",
+    "company_id": "FAKE_046",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha46"
+  },
+  {
+    "id": "tr47",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha47?",
+    "company_id": "FAKE_047",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha47"
+  },
+  {
+    "id": "tr48",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha48?",
+    "company_id": "FAKE_048",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha48"
+  },
+  {
+    "id": "tr49",
+    "category": "negative_trap",
+    "question": "What is the status of FakeCompany Alpha49?",
+    "company_id": "FAKE_049",
+    "answer": null,
+    "expected_entity": "FakeCompany Alpha49"
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "context_stat": {
+    "correct": 38,
+    "total": 50,
+    "pct": 76.0
+  },
+  "marker": {
+    "correct": 50,
+    "total": 50,
+    "pct": 100.0
+  },
+  "milestone": {
+    "correct": 50,
+    "total": 50,
+    "pct": 100.0
+  },
+  "negative_trap": {
+    "correct": 50,
+    "total": 50,
+    "pct": 100.0
+  },
+  "role": {
+    "correct": 50,
+    "total": 50,
+    "pct": 100.0
+  },
+  "status": {
+    "correct": 41,
+    "total": 50,
+    "pct": 82.0
+  },
+  "temporal_topic": {
+    "correct": 38,
+    "total": 50,
+    "pct": 76.0
+  },
+  "overall": {
+    "correct": 317,
+    "total": 350,
+    "pct": 90.6
+  },
+  "overall_ex_trap": {
+    "correct": 267,
+    "total": 300,
+    "pct": 89.0
+  },
+  "elapsed_seconds": 373.0,
+  "repository": "https://github.com/AxDSan/mnemosyne-beta-analysis",
+  "benchmark_date": "2026-06-09"
+}
