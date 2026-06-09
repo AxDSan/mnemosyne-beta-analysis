@@ -51,7 +51,7 @@ python3 hybrid_bench.py
 | `corpus.json` | 236,658 business records across 500 companies (365 days) |
 | `questions.json` | 350 questions (50 per category + 50 traps) |
 | `generate_corpus.py` | Corpus and question generator |
-| `fast_ingest.py` | Bulk SQLite batch ingest |
+| `fast_ingest_direct.py` | Bulk SQLite batch ingest (direct INSERT) |
 | `hybrid_bench.py` | Hybrid recall benchmark runner |
 | `hybrid_results.json` | Raw per-question results |
 | `scores.json` | Aggregated scores |
