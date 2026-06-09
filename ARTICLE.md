@@ -1,6 +1,6 @@
-## The Unreproducible Benchmark — Revised
+## The Unreproducible Benchmark
 
-**What happened when we actually looked at the failures.**
+**What happened when the Mnemosyne team actually looked at the failures.**
 
 ---
 
@@ -8,17 +8,17 @@
 
 Two weeks ago, Sibyl Labs published a blog post comparing four memory engines on a custom 500-company, 365-day business benchmark. Their architecture (exact-key entity lookup) scored 350/350. Mnemosyne scored 5/350, per "tester's report only — no local artifact to re-run."
 
-No runner, no corpus, no way to verify. So we reproduced it.
+No runner. No corpus. No way to verify. So the Mnemosyne team built their own reproduction.
 
-We generated 500 companies, 365 days of activity, 236,658 records, and ran Mnemosyne with full hybrid recall (FTS5 text search + sqlite-vec vector embeddings). Result: **317/350 (90.6%)**.
+They generated 500 companies, 365 days of activity, 236,658 records, and ran Mnemosyne with full hybrid recall (FTS5 text search + sqlite-vec vector embeddings). Result: **317/350 (90.6%)**.
 
-That's what I published. And it was shallow.
+That's what they published initially. And it was shallow.
 
 ---
 
 ### What the failures actually are
 
-**33 queries failed out of 350.** I broke them down:
+**33 queries failed out of 350.** The team broke them down:
 
 | Category | Failures | Root cause |
 |----------|----------|------------|
@@ -42,7 +42,7 @@ But the data stores these as **two separate records** — one status_checkin and
 
 **Every single temporal_topic failure is this pattern.** Every one. The records were retrieved. The data is there. The scoring just checked for a string that doesn't exist in isolation.
 
-Fixing the scorer to check that ALL substrings are present in the top-K results would change these 12 misses to 12 hits.
+Fixing the scorer to check that all substrings are present in the top-K results would change these 12 misses to 12 hits.
 
 ---
 
@@ -84,7 +84,7 @@ Full reproducible artifacts at github.com/AxDSan/mnemosyne-beta-analysis:
 - Benchmark runner with raw per-query results
 - This analysis
 
-No claims of 350/350. No cherry-picking. Just what we found, what it means, and where the gap is.
+No claims of 350/350. No cherry-picking. Just what they found, what it means, and where the gap is.
 
 ---
 
@@ -92,4 +92,4 @@ No claims of 350/350. No cherry-picking. Just what we found, what it means, and 
 
 Sibyl's beta analysis page states: "Every vector system scored 0/50 on trap retrieval."
 
-Mnemosyne scored 50/50 on trap questions. Zero results returned for all 50 fake company names. The "0/50" claim depends on a specific evaluation lens — if "retrieval of answer" is the metric, then a retrieval system that correctly returns nothing is penalized for not returning nothing. Our scorer counted zero results as correct on traps. We're open to arguments about methodology, but the data is there to inspect.
+Mnemosyne scored 50/50 on trap questions. Zero results returned for all 50 fake company names. The "0/50" claim depends on a specific evaluation lens — if "retrieval of answer" is the metric, then a retrieval system that correctly returns nothing is penalized for returning nothing. Their scorer counted zero results as correct on traps. They're open to arguments about methodology, but the data is there to inspect.
